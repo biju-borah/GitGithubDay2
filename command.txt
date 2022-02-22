@@ -8,4 +8,6 @@ git log  // It will show history of all your commit
 git status // It will show the changes that we have done to files present in staged area
 git restore --staged <filename> // It will unstagged the files present in staged area
 git restore <filename>  // It will discard the changes done with the files
-
+git branch <name>  //create a branch from current head
+git branch  //It will show current working branch
+git checkout <name>  //It will switch branch

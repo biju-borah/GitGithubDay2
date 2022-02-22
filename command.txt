@@ -1,3 +1,7 @@
-cd <path>  // to change directory
+cd <path>       // to change directory
 mkdir <name>  // to create directory
 touch <name>  // to create file
+git init     // Intialize a git repo
+git add <filename>  // It will add your file to staged area
+git commit -m "<message>"   // It will commit your file to git repo
+git log  // It will show history of all your commit

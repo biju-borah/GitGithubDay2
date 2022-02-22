@@ -11,3 +11,4 @@ git restore <filename>  // It will discard the changes done with the files
 git branch <name>  //create a branch from current head
 git branch  //It will show current working branch
 git checkout <name>  //It will switch branch
+git merge <branch_name>  //Merged specified branch into current branch

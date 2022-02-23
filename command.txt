@@ -14,3 +14,8 @@ git checkout <name>  //It will switch branch
 git merge <branch_name>  //Merged specified branch into current branch
 git branch -d <branch_name>  // Delete specified branch (if it is upto date with master branch)
 git branch -D <branch_name>  // Force delete of specified branch
+
+
+git push <remote> <branch>  // It will transfer all your changes to remote repository
+git fetch <remote> <branch>  // It will bring all your changes from remote repository to git repository
+git pull <remote> <branch>  // It will bring all your changes from git repository to your working project
